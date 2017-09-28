@@ -9,4 +9,4 @@ What I used:
   *  RWD
   *  Git
 
-Live version: https://dorotapszczola.github.io/Trufla-the-Frenchie/
+Live version: https://dorotapszczola.github.io/1.Trufla-the-Frenchie/
