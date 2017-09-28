@@ -52,7 +52,7 @@ nav:before, nav:after {
 
 /**** slogan ******* */
 .hero {
-  background-image: url("/img/Trufla.jpg");
+  background-image: url("img/Trufla.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 60vh;
