@@ -1,6 +1,6 @@
-#Trufla the Frenchie
+**Trufla the Frenchie**
 
-This page is based on a PSD file. All the code is mine. Trufla is also mine.
+This page is based on a PSD file. All the code is mine. Trufla (the dog) is also mine.
 
 What I used:
 
